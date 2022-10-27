@@ -1,6 +1,8 @@
-int foo(int a){
-    if(a == 0)
-        return 0;
-    else 
-        return 1;
-}
+int a=1;
+char a1='a';
+short b=1;
+long c=1;
+long long d=1;
+float e =1.1;
+double f=2.1;
+int* g=&a;
